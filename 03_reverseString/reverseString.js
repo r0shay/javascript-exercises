@@ -1,13 +1,14 @@
-const reverseString = function([]) {
+const reverseString = function ([]) {
+    var n;
     var word = [n];
     for(i=n;i<=0;i--)
     {
-        reversed = console.log(word[i]);
+       var reversed = console.log(word[i]);
     }
     return reversed;
 
-
 };
+reverseString('boston');
  /*function reverseString(string)
  {
 
